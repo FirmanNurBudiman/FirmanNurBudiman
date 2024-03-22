@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Firman Nur Budiman**.<br>
 
-Saya seorang **Mahasiswa dari Uiversitas Jendral Achmad Yani.<br>
+Saya seorang **Mahasiswa dari Uiversitas Jendral Achmad Yani**.<br>
 
 Skil yang saya punya yaitu Html, CSS, java, Word, Excel, Ppt Dan jaringan.<br>
 
